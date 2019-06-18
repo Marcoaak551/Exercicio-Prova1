@@ -1,0 +1,64 @@
+body{
+  margin: 0;
+  background-color: #fafafa;
+  font-family: 'Roboto', cursive;
+  text-align: center;
+}
+
+.registro-panel{
+  float: center;
+  width: 500px;
+  height: 320px;
+  margin: 0 auto;
+  background-color: white;
+  border-style: solid;
+  border-color: fefefe;
+  padding-top:45px;
+}
+
+input[type=text]{
+    width: 370px;
+    margin: 0 auto;
+    margin-top: 10px;
+    background-color: #ffffff;
+    border-color: #666666;
+    border-style: solid;
+    border-width: 4px;
+    font-family: 'Roboto', cursive;
+    padding: 10px;
+  }
+
+  input[type=email]{
+    width: 370px;
+    margin: 0 auto;
+    margin-top: 10px;
+    background-color: #ffffff;
+    border-color: #666666;
+    border-style: solid;
+    border-width: 4px;
+    font-family: 'Roboto', cursive;
+    padding: 10px;
+  }
+
+  input[type=submit]{
+    width: 10px;
+    height: 10px;
+    margin: 0 auto;
+    margin-top: 10px;
+    font-family: 'Roboto', cursive;
+    opacity: 1.0;
+  }
+
+  .linkButton {
+    border-radius: 5px;
+    width:20px;
+    height:20px;
+    background-color: #2A4B7C;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size:20%;
+    font-family: 'Roboto', cursive;
+    text-align: center;
+  }
